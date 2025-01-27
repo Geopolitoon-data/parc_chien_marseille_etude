@@ -1,0 +1,11 @@
+voila
+pandas
+numpy
+matplotlib
+seaborn
+pingouin
+scipy
+folium
+geopy
+ipywidgets
+geopandas
